@@ -2,13 +2,13 @@
 
 # Hey, I'm Carlos 👋
 
-Based in Medellín, Colombia, training to become a fullstack developer, one CESDE module at a time.
+Based in Medellín, Colombia, training to become a fullstack developer.
 
 </div>
 
 ## What I'm working on
 
-I'm in a *Contrato de Aprendizaje* at **CESDE**, going for a technical certificate in Software Development. Right now that looks like:
+I'm in a *Contrato de Aprendizaje* at **CESDE**, going for a certificate in Software Development. Right now that looks like:
 
 - Backend: **Java**, with Spring Boot coming up next
 - Frontend: **JavaScript**, working my way into React
@@ -21,15 +21,16 @@ I'm in a *Contrato de Aprendizaje* at **CESDE**, going for a technical certifica
 
 ## Outside of code
 
-FPS and sandbox games eat up more of my free time than they probably should, and I'm almost always in the middle of some sci-fi book.
+FPS and Sandbox games take a lot of my time. I am currently trying to platinum various titles!
+I enjoy hiking, reading books and cooking.
 
 ---
 
 ### GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nelsotodiaz&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsotodiaz&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nelzv&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelzv&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 3D contribution graph
