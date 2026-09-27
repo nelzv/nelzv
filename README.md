@@ -25,14 +25,14 @@ FPS and Sandbox games take a lot of my time. I am currently trying to platinum v
 I enjoy hiking, reading books and cooking.
 
 ---
-
+<!--
 ### GitHub stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nelzv&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelzv&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
-
+-->
 ### 3D contribution graph
 
 <div align="center">
