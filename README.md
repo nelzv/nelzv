@@ -36,7 +36,7 @@ I enjoy hiking, reading books and cooking.
 ### 3D contribution graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </div>
 
 ### Find me elsewhere
